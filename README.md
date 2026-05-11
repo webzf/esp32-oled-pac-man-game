@@ -155,6 +155,93 @@ This project is a mini Pac-Man style game made for **ESP32 + SSD1306 OLED** with
 
 Install these libraries from Arduino IDE Library Manager:
 
-```cpp
-U8g2
+U8g2  
 Wire
+
+---
+
+# 🎮 Controls
+
+| Action | Control |
+|---|---|
+| Move Pac-Man | Analog Joystick |
+| Restart Game | Press Joystick Button |
+
+---
+
+# 🧠 Ghost AI
+
+The ghosts chase the player using a simple system:
+
+- Detect available paths
+- Avoid walls
+- Calculate shortest distance
+- Change direction dynamically
+
+---
+
+# 📸 Preview
+
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/72/ab/d5/72abd5ed6c715fbb44924c2e4aa33a06.jpg" width="320"/>
+<img src="https://i.pinimg.com/736x/52/66/23/526623ed8ece861a59e05a1753826480.jpg" width="320"/>
+
+</div>
+
+---
+
+# ⚡ Upload Guide
+
+1. Open Arduino IDE  
+2. Install ESP32 board package  
+3. Install U8g2 library  
+4. Select your ESP32 board  
+5. Upload the code  
+6. Enjoy retro gaming 👾
+
+---
+
+# 📂 Repository Structure
+
+esp32-oled-pacman-game/
+
+├── images/  
+│   ├── gameplay.gif  
+│   ├── gameplay.jpg  
+│   └── wiring.png  
+
+├── esp32-oled-pacman-game.ino  
+├── README.md  
+└── LICENSE  
+
+---
+
+# ⭐ Support
+
+If you liked this project:
+
+⭐ Star the repository  
+📺 Subscribe on YouTube  
+🚀 Visit the full funnel  
+💬 Share the project  
+
+---
+
+# 📜 License
+
+MIT License
+
+---
+
+<div align="center">
+
+# 👾 Retro Gaming on ESP32
+
+Made with ❤️ using Arduino + ESP32
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0f0f0f&height=120&section=footer"/>
+
+</div>
