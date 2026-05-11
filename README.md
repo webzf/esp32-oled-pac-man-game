@@ -106,7 +106,7 @@ The ghosts use a simple pathfinding system:
 
 Watch the build video here:
 
-[https://youtube.com/shorts/XXXXXXXXXXX](https://youtube.com/shorts/ijL8A58yPtk?si=dTKPPlHSzpukIgOa)
+[https://youtube.com/shorts/](https://youtube.com/shorts/ijL8A58yPtk?si=dTKPPlHSzpukIgOa)
 
 ---
 
